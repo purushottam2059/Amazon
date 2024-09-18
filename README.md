@@ -1,1 +1,1 @@
-This is clone of website.
+This is clone of amazon.
